@@ -5,4 +5,4 @@ The methodology for visualising the climate data is exactly the same as ShowYour
 
 The data used for plotting here is from the [Permanent Service for Mean Sea Level](https://www.psmsl.org) (PSMSL) which gives monthly mean sea level at a number of buoys across the globe. The monthly mean values are extracted from the CSV files provided, converted to an annual mean for each year of the buoy's operation, and then normalised to the full time-series mean to give the hotter or colder/higher or lower than average colormap used in plotting. Then the striped are visualised.
 
-- *F Muir, Oct 2019*
+*F Muir, Oct 2019*
