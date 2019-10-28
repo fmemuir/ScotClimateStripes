@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 17 18:25:59 2019
@@ -99,7 +99,6 @@ for f, n, b, tfile in zip(files,range(1,len(files)+1), buoys, tfiles):
  # turn off all frames and edges for clean look
 plt.subplots_adjust(wspace=0, hspace=0)    
 plt.savefig(figname)            
-#plt.savefig('psmsl_climatestripes.png',facecolor='#303030')
 plt.show()
 
 #______________________________________________________________________________
